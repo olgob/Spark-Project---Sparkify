@@ -49,17 +49,13 @@ We use pyspark then to load, clean data, and prepare the different features. We 
 - Gradient-boosted tree classifier
 
 After having training the models with grid search and 5-folds cross validation on the 4 models using a training dataset, we test the model on a test dataset that haven't seen before by the models and optain the following results for the classification :
-+----------------------------------+----------+------------+----------+----------+
+
 |Model                             | accuracy |  precision |  recall  |    f1    |
-+----------------------------------+----------+------------+----------+----------+
+|----------------------------------|----------|------------|----------|----------|
 | Logistic regression              | 0.764706 |  0.5       |  0.25    | 0.333333 |
-+----------------------------------+----------+------------+----------+----------+
 | Decision Tree Classifier         | 0.823529 |  0.625     |  0.625   | 0.625    |
-+----------------------------------+----------+------------+----------+----------+
 | Random forest classifier         | 0.794118 |  1.0       |  0.125   | 0.222222 |
-+----------------------------------+----------+------------+----------+----------+
 | Gradient-Boosted Tree Classifier | 0.882353 |  0.833333  |  0.625   | 0.714286 |
-+----------------------------------+----------+------------+----------+----------+
 
 ### Acknowledgements
 
