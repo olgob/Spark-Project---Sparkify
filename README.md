@@ -57,4 +57,7 @@ After having training the models with grid search and 5-folds cross validation o
 
 ### Acknowledgements
 
-the dataset mini_sparkify_event_data.json is a 128MB json that exceed the limit size of file on github. It can be found on udacity website in the data scientist nanodegree program.
+The dataset mini_sparkify_event_data.json is a 128MB json that exceed the limit size of file on github. It can be found on udacity website in the data scientist nanodegree program.
+
+A blog post has been written about this study and can be found at the followink link :
+https://medium.com/@oliviergobron/detect-churn-on-a-digital-music-service-bc8dd3744a21
