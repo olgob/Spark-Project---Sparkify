@@ -23,9 +23,9 @@ Predicting churn rates is a challenging and common problem that data scientists 
 
 <pre>
 .
-├── article pictures ----------------------- contain the plots pictures and screenshots used for the blog post written on medium
-│sparklify_features_exploration.ipynb ------ notebook containing the code to load data and study different features for predicting                                                    churn.
-│sparklify_machine_learning_model.ipynb ---- notebook containing the code to load data, build machine learning model with selected                                                    features using gridsearch and crossvalidation on a train dataset and get the results of the                                              predicitons on a test dataset
+├── article pictures ----------------------- contain the plots pictures and screenshots used for the blog post written on medium.
+│sparklify_features_exploration.ipynb ------ notebook containing the code to load data and study different features for predicting churn.
+│sparklify_machine_learning_model.ipynb ---- notebook containing the code to load data, build machine learning model with selected features using gridsearch and crossvalidation on a train dataset and get the results of the predicitons on a test dataset
 
 </pre>
 
