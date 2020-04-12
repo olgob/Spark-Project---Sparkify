@@ -10,8 +10,6 @@ Predicting churn rates is a challenging and common problem that data scientists 
 
 ### Libraries used on this project
 
-# necessary if we use pyspark on a local machine
-
 - pyspark
 - numpy
 - pandas
